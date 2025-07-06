@@ -1,8 +1,8 @@
-# HW-4: IoT Kimlik Doğrulama Mekanizmaları (HTTP / TLS / Mutual Auth)
+# IoT Kimlik Doğrulama Mekanizmaları (HTTP / TLS / Mutual Auth)
 
 📅 **Tarih:** 26.06.2025  
-👨‍💻 **Hazırlayan:** [Adınızı buraya yazın]  
-🎓 **Öğrenci No:** [Öğrenci numaranız]
+👨‍💻 **Hazırlayan:** Pelin Bingöl
+🎓 **Öğrenci No:** 211312082
 
 ---
 
@@ -27,14 +27,7 @@ Bu proje, IoT (Nesnelerin İnterneti) cihazlarının kimlik doğrulama süreçle
 - ✔️ Yanıt kodları doğru olarak döndürüldü (200 OK, 401 Unauthorized)
 
 ## 🔹 B. POST Mesaj İşleme
-- ✔️ Sunucu, aşağıdaki JSON verisi ile gelen POST isteğini işler:
-
-```json
-{ 
-  "student_id": "your_id" 
-}
-
----
+- ✔️ Sunucu, aşağıdaki JSON verisi ile gelen POST isteğini işler.
 
 - ✔️ Geçerli veriler için 200 OK döner
 

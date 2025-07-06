@@ -33,6 +33,9 @@ Bu proje, IoT (Nesnelerin İnterneti) cihazlarının kimlik doğrulama süreçle
 { 
   "student_id": "your_id" 
 }
+
+---
+
 - ✔️ Geçerli veriler için 200 OK döner
 
 - ❌ Eksik ya da hatalı veriler için hata mesajı döner
